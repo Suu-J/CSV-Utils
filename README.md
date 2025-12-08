@@ -21,7 +21,7 @@ Scripts for CSV file manipulation, comparison, and analysis.
 - pandas (for most scripts)
 - csv (Python standard library)
 
-## Common Use Cases
+## Use Cases
 - Data validation and verification
 - Finding differences between datasets
 - Extracting specific information from large files
